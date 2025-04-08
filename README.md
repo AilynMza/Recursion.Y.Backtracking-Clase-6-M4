@@ -10,7 +10,7 @@ Para comprobar el resultado se ejecuta con ayuda de node.
 
 ## Enlace del repositorio
 
-[GitHub - Proyecto Recursión y backtrackingClase 6](https://github.com/AilynMza/Recursión.Y.Backtracking-Clase-6-M4)
+[GitHub - Proyecto Recursión y backtrackingClase 6](https://github.com/AilynMza/Recursion.Y.Backtracking-Clase-6-M4)
 
 ## Conclusión
 
